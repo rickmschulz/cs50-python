@@ -8,7 +8,7 @@ My personal solutions to the problem sets in the course.
 
 ## Table of Contents
 - [Lecture](#lecture)
-- [Problem Sets](#problem-sets)
+- [Problem Sets (Solutions)](#problem-sets-solutions)
 
 ## Lecture
 |   Week | CS50 Lecture                                                                 | Youtube Lecture                                             | Problem Set                                                    |
@@ -24,7 +24,7 @@ My personal solutions to the problem sets in the course.
 | Week 8 | [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/) | [Object-Oriented Programming](https://youtu.be/e4fwY9ZsxPw) | [Problem Set 8](https://cs50.harvard.edu/python/2022/psets/8/) |
 | Week 9 | [Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/)                   | [Et Cetera](https://youtu.be/6pgodt1mezg)                   | [Final Project](https://cs50.harvard.edu/python/2022/project/) |
 
-## Problem Sets
+## Problem Sets (Solutions)
 - Functions, Variables (Problem Set 0)
   - [Indoor Voice](00-Functions_and_Variables/indoor.py)
   - [Playback Speed](00-Functions_and_Variables/playback.py)
