@@ -71,8 +71,8 @@ My personal solutions to the problem sets in the course.
   - [Regular, um, Expressions](07-Regular_Expressions/um/um.py)
   - [Response Validation](07-Regular_Expressions/response.py)
 - Object-Oriented Programming (Problem Set 8)
-  - [Seasons of Love]
-  - [Cookie Jar]
-  - [CS50 Shirtificate]
+  - [Seasons of Love](08-Object-Oriented_Programming/seasons/seasons.py)
+  - [Cookie Jar](08-Object-Oriented_Programming/jar/jar.py)
+  - [CS50 Shirtificate](08-Object-Oriented_Programming/shirtificate/shirtificate.py)
 - Et Cetera
   - [Final Project]
