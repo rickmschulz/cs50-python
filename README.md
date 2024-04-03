@@ -9,6 +9,7 @@ My personal solutions to the problem sets in the course.
 ## Table of Contents
 - [Lecture](#lecture)
 - [Problem Sets (Solutions)](#problem-sets-solutions)
+- [Library Appendix](#library-appendix)
 
 ## Lecture
 |   Week | CS50 Lecture                                                                 | Youtube Lecture                                             | Problem Set                                                    |
@@ -76,3 +77,23 @@ My personal solutions to the problem sets in the course.
   - [CS50 Shirtificate](08-Object-Oriented_Programming/shirtificate/shirtificate.py)
 - Et Cetera
   - [Final Project]
+
+## Library Appendix
+- Built-in
+  - [Python Module Index](https://docs.python.org/3/py-modindex.html)
+  - [sys](https://docs.python.org/3/library/sys.html)
+  - [random](https://docs.python.org/3/library/random.html)
+  - [re](https://docs.python.org/3/library/re.html)
+  - [datetime](https://docs.python.org/3/library/datetime.html)
+  - [csv](https://docs.python.org/3/library/csv.html)
+- External
+  - [requests](https://requests.readthedocs.io/en/latest/)
+  - [tabulate](https://pypi.org/project/tabulate/)
+  - [fpdf](https://pypi.org/project/fpdf2/)
+  - [pytest](https://docs.pytest.org/en/8.0.x/getting-started.html)
+  - [inflect](https://pypi.org/project/inflect/)
+  - [validator_collection](https://pypi.org/project/validator-collection/)
+  - [validators](https://github.com/python-validators/validators)
+  - [pillow](https://pypi.org/project/pillow/)
+  - [pyfiglet](https://pypi.org/project/pyfiglet/0.7/)
+  - [emoji](https://pypi.org/project/emoji/)
