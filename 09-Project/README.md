@@ -63,8 +63,8 @@ This command fetches and displays details about the movie "The Matrix."
 
 ## Troubleshooting
 
-API Key Missing: Ensure your .env file contains a valid API_KEY.
-Network Issues: Check your internet connection if the application fails to fetch data.
+- API Key Missing: Ensure your .env file contains a valid API_KEY.
+- Network Issues: Check your internet connection if the application fails to fetch data.
 
 ## Acknowledgements
 
