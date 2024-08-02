@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Create a .env file in the root directory and add your OMDb API key:
 
 ```bash
-API_KEY=your_api_key_here`
+API_KEY=your_api_key_here
 ```
 
 ## Usage
