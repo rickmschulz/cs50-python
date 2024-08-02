@@ -1,0 +1,5 @@
+requests
+pyfiglet
+pytest
+python-dotenv
+tabulate
