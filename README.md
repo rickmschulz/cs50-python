@@ -4,9 +4,8 @@
 
 My personal solutions to the problem sets in the course.
 
-#### `This project is currently under development.`
-
 ## Table of Contents
+- [Certificate](https://certificates.cs50.io/006e2566-3c8c-497f-aad0-13eec16326b4)
 - [Lecture](#lecture)
 - [Problem Sets (Solutions)](#problem-sets-solutions)
 - [Library Appendix](#library-appendix)
@@ -76,7 +75,7 @@ My personal solutions to the problem sets in the course.
   - [Cookie Jar](08-Object-Oriented_Programming/jar/jar.py)
   - [CS50 Shirtificate](08-Object-Oriented_Programming/shirtificate/shirtificate.py)
 - Et Cetera
-  - [Final Project]
+  - [Final Project](https://github.com/rickmschulz/cs50-python/tree/main/09-Project)
 
 ## Library Appendix
 - Built-in
